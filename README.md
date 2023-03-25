@@ -17,4 +17,4 @@ containing different questions of patients. We used SQL Server to merge the diff
 We finally took the final dataset and cleaned it,filled it and filtered it using Python. To extract our final model, we used SMOTE to balance the data 
 and we applied RUSBoost Classifier, AdaBoost Classifier and XGB Classifier with the first two algorithms achieving the best Precision. For any further information, feel 
 free to contact us.
-CoAuthor @AndreasAvgou
+
