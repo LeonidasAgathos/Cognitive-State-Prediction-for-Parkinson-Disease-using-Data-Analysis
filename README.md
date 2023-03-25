@@ -1,4 +1,4 @@
-## Prognostic-factors-and-prediction-of-Parkinson-s-disease
+## Cognitive-State-Prediction-for-Parkinson-Disease-using-Data-Analysis
 
 ### The problem
 In this particular project, the main topic we dealt with is Parkinson's disease. Parkinson's disease is a degenerative disorder of the central nervous system.
