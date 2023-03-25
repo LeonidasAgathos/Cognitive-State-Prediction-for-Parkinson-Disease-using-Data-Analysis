@@ -1,6 +1,6 @@
-## H2 Prognostic-factors-and-prediction-of-Parkinson-s-disease
+## Prognostic-factors-and-prediction-of-Parkinson-s-disease
 
-####H4 The problem
+### The problem
 In this particular project, the main topic we dealt with is Parkinson's disease. Parkinson's disease is a degenerative disorder of the central nervous system.
 which is quite widespread nowadays, as it is estimated that 1% of the population of the population over 65 suffer from the disease.
 The initial symptoms of the disease are stiffness, tremor and slowness of movement, while a later stage usually includes
@@ -9,7 +9,7 @@ of the disease in that particular patient. The prediction of the state of deteri
 patient is an important fact, as the early prediction of an upcoming deterioration,can greatly assist the physician in charge in order, through medication, to
 delay this otherwise inevitable process.
 
-####H4 Our approach
+### Our approach
 The target of the project, was to predict the possibility of a patient moving to the next, worse cognition state. Our target 
 class was "Cognitive State" and we took the next meet with the doctor, after the Baseline meeting. For the rest of the data, we used Baseline, so we can predict the 
 second, worse state, using the data from the first meet with a doctor. The final dataset we used for our experiment, we had to merge the different datasets 
